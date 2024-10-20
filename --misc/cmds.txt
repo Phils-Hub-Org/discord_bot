@@ -1,0 +1,16 @@
+!randmeme - Sends a random meme.
+    Who: Anyone
+
+!randsong - Sends a random song.
+    Who: Anyone
+
+!randtrailor - Sends a random movie/series trailer.
+    Who: Anyone
+
+!codeinfo [language] [code] - Sends the code with the given language.
+    Example: !codeinfo gsc function
+    Who: Anyone
+
+!purge - Purges all messages in the channel where the command is invoked.
+    Example: !purge
+    Who: Moderators +

@@ -1,2 +1,7 @@
-# discord_bot
- 
+## Installation
+
+pass
+
+## License
+
+MIT License
